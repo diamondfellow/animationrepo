@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Learning Scenes/Trulytop.unity
+    guid: 1fc114597eb881b499c2bcfb59471a7c
+  - enabled: 0
+    path: Assets/Scenes/Learning Scenes/ColorPallete.unity
+    guid: 8daa676d6281400438f8f26b974e1334
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 534f4c905a4aa5744a9d4a8368c2e223
+  - enabled: 0
+    path: Assets/Scenes/Learning Scenes/Learning.unity
+    guid: fa64641430c082f479e0cbc4be46b327
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Dark.unity
+    guid: 13b9a8b5235eca24fad2989b159f0613
+  - enabled: 0
+    path: Assets/Scenes/Win.unity
+    guid: 133a429c988136242975999dbb282f3f
+  - enabled: 0
+    path: Assets/Scenes/Secret.unity
+    guid: 50d0cdaf1a047cd48999be092743ebb9
+  - enabled: 0
+    path: Assets/Scenes/Secret2.unity
+    guid: 16a9b77d4b1b7f74f8c9a927c5526215
+  - enabled: 0
+    path: Assets/Scenes/EasterEgg.unity
+    guid: f288f1b8457f812499d2f8a03c8ca275
+  m_configObjects: {}
